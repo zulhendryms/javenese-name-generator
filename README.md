@@ -1,6 +1,6 @@
 # Javanese Name Generator
 
-A beautiful and elegant web application that generates random Javenese names using Next.js, Tailwind CSS, and shadcn/ui components. The application features a responsive design, smooth animations, and a dark mode.
+A beautiful and elegant web application that generates random Javenese names using Next.js, Tailwind CSS, and shadcn/ui components. The application features a responsive design, smooth animations.
 
 ![ZZULU IT Logo](/resultexample.jpg)
 
